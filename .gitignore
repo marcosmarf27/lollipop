@@ -1,0 +1,6 @@
+/lib
+/vendor
+/app/config
+/app/database
+*.ini
+*.xml

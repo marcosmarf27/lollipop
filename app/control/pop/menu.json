@@ -1,0 +1,2705 @@
+{
+    "languages": [
+        "en"
+    ],
+    "id": 345170,
+    "currency": "BRL",
+    "default_language": "en",
+    "name": "Primeiro menu",
+    "description": "Descrição do menu",
+    "created_at": "2021-08-19T20:58:04.000Z",
+    "updated_at": "2021-08-19T21:13:13.000Z",
+    "account_id": 1154667,
+    "categories": [
+        {
+            "id": 1995271,
+            "menu_id": 345170,
+            "name": "MONTE SUA PIZZA",
+            "description": "Monte a pizza do jeito que deseja!",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 0,
+            "picture_id": 175070,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11563852,
+                    "menu_category_id": 1995271,
+                    "name": "MONTAR PIZZA MÉDIA (ESCOLHA DUAS OPÇÕE)",
+                    "description": null,
+                    "price": 0,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": [
+                        {
+                            "id": 2125305,
+                            "menu_id": 345170,
+                            "name": "SABORES (2 opções)",
+                            "sort": 0,
+                            "required": true,
+                            "force_min": 2,
+                            "force_max": 2,
+                            "allow_quantity": false,
+                            "tax_category_id": 248788,
+                            "options": [
+                                {
+                                    "id": 12631669,
+                                    "option_group_id": 2125305,
+                                    "name": "MUSSARELA CREMOSA",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 0
+                                },
+                                {
+                                    "id": 12631671,
+                                    "option_group_id": 2125305,
+                                    "name": "CALABRESA",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 1
+                                },
+                                {
+                                    "id": 12631672,
+                                    "option_group_id": 2125305,
+                                    "name": "4 QUEIJOS",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 2
+                                },
+                                {
+                                    "id": 12631674,
+                                    "option_group_id": 2125305,
+                                    "name": "PRESUNTO",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 3
+                                },
+                                {
+                                    "id": 12631676,
+                                    "option_group_id": 2125305,
+                                    "name": "MILHO VERDE",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 4
+                                },
+                                {
+                                    "id": 12631680,
+                                    "option_group_id": 2125305,
+                                    "name": "BACON",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 5
+                                },
+                                {
+                                    "id": 12631681,
+                                    "option_group_id": 2125305,
+                                    "name": "MISTA",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 6
+                                },
+                                {
+                                    "id": 12631709,
+                                    "option_group_id": 2125305,
+                                    "name": "FRANGO CREMOSO",
+                                    "price": 9,
+                                    "default": false,
+                                    "sort": 7
+                                },
+                                {
+                                    "id": 12631714,
+                                    "option_group_id": 2125305,
+                                    "name": "FRANGO CHEDDAR",
+                                    "price": 9,
+                                    "default": false,
+                                    "sort": 8
+                                },
+                                {
+                                    "id": 12631715,
+                                    "option_group_id": 2125305,
+                                    "name": "FRANGO CATUPIRY",
+                                    "price": 9,
+                                    "default": false,
+                                    "sort": 9
+                                },
+                                {
+                                    "id": 12631717,
+                                    "option_group_id": 2125305,
+                                    "name": "FRANGO COM BACON",
+                                    "price": 9,
+                                    "default": false,
+                                    "sort": 10
+                                },
+                                {
+                                    "id": 12631718,
+                                    "option_group_id": 2125305,
+                                    "name": "PORTUGUESA",
+                                    "price": 9,
+                                    "default": false,
+                                    "sort": 11
+                                },
+                                {
+                                    "id": 12631719,
+                                    "option_group_id": 2125305,
+                                    "name": "ATUM CREMOSO",
+                                    "price": 9,
+                                    "default": false,
+                                    "sort": 12
+                                },
+                                {
+                                    "id": 12631720,
+                                    "option_group_id": 2125305,
+                                    "name": "EXECUTIVA",
+                                    "price": 9,
+                                    "default": false,
+                                    "sort": 13
+                                },
+                                {
+                                    "id": 12631722,
+                                    "option_group_id": 2125305,
+                                    "name": "Á MODA",
+                                    "price": 10,
+                                    "default": false,
+                                    "sort": 14
+                                },
+                                {
+                                    "id": 12631733,
+                                    "option_group_id": 2125305,
+                                    "name": "SUPER FRANGO",
+                                    "price": 10,
+                                    "default": false,
+                                    "sort": 15
+                                },
+                                {
+                                    "id": 12631734,
+                                    "option_group_id": 2125305,
+                                    "name": "CARNE DE SOL",
+                                    "price": 10,
+                                    "default": false,
+                                    "sort": 16
+                                },
+                                {
+                                    "id": 12631736,
+                                    "option_group_id": 2125305,
+                                    "name": "LOMBO CANADENSE",
+                                    "price": 10,
+                                    "default": false,
+                                    "sort": 17
+                                },
+                                {
+                                    "id": 12631738,
+                                    "option_group_id": 2125305,
+                                    "name": "PEPPERONI",
+                                    "price": 10,
+                                    "default": false,
+                                    "sort": 18
+                                },
+                                {
+                                    "id": 12631739,
+                                    "option_group_id": 2125305,
+                                    "name": "CAMARÃO",
+                                    "price": 10,
+                                    "default": false,
+                                    "sort": 19
+                                },
+                                {
+                                    "id": 12631742,
+                                    "option_group_id": 2125305,
+                                    "name": "CHOCOLATE",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 20
+                                },
+                                {
+                                    "id": 12631744,
+                                    "option_group_id": 2125305,
+                                    "name": "CHOCOLATE COM M&M",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 21
+                                },
+                                {
+                                    "id": 12631745,
+                                    "option_group_id": 2125305,
+                                    "name": "CHOCOLATE COM MORANGOS",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 22
+                                },
+                                {
+                                    "id": 12631746,
+                                    "option_group_id": 2125305,
+                                    "name": "BANANA",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 23
+                                },
+                                {
+                                    "id": 12631754,
+                                    "option_group_id": 2125305,
+                                    "name": "ROMEU E JULIETA",
+                                    "price": 8.5,
+                                    "default": false,
+                                    "sort": 24
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 11563856,
+                    "menu_category_id": 1995271,
+                    "name": "MONTAR PIZZA GRANDE (ESCOLHA DUAS OPÇÕE)",
+                    "description": null,
+                    "price": 0,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": [
+                        {
+                            "id": 2125326,
+                            "menu_id": 345170,
+                            "name": "SABORES (2 opções)",
+                            "sort": 0,
+                            "required": true,
+                            "force_min": 2,
+                            "force_max": 2,
+                            "allow_quantity": false,
+                            "tax_category_id": 248788,
+                            "options": [
+                                {
+                                    "id": 12631781,
+                                    "option_group_id": 2125326,
+                                    "name": "MUSSARELA CREMOSA",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 0
+                                },
+                                {
+                                    "id": 12631782,
+                                    "option_group_id": 2125326,
+                                    "name": "CALABRESA",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 1
+                                },
+                                {
+                                    "id": 12631783,
+                                    "option_group_id": 2125326,
+                                    "name": "4 QUEIJOS",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 2
+                                },
+                                {
+                                    "id": 12631784,
+                                    "option_group_id": 2125326,
+                                    "name": "PRESUNTO",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 3
+                                },
+                                {
+                                    "id": 12631785,
+                                    "option_group_id": 2125326,
+                                    "name": "MILHO VERDE",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 4
+                                },
+                                {
+                                    "id": 12631786,
+                                    "option_group_id": 2125326,
+                                    "name": "BACON",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 5
+                                },
+                                {
+                                    "id": 12631787,
+                                    "option_group_id": 2125326,
+                                    "name": "MISTA",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 6
+                                },
+                                {
+                                    "id": 12631788,
+                                    "option_group_id": 2125326,
+                                    "name": "FRANGO CREMOSO",
+                                    "price": 14,
+                                    "default": false,
+                                    "sort": 7
+                                },
+                                {
+                                    "id": 12631789,
+                                    "option_group_id": 2125326,
+                                    "name": "FRANGO CHEDDAR",
+                                    "price": 14,
+                                    "default": false,
+                                    "sort": 8
+                                },
+                                {
+                                    "id": 12631790,
+                                    "option_group_id": 2125326,
+                                    "name": "FRANGO CATUPIRY",
+                                    "price": 14,
+                                    "default": false,
+                                    "sort": 9
+                                },
+                                {
+                                    "id": 12631791,
+                                    "option_group_id": 2125326,
+                                    "name": "FRANGO COM BACON",
+                                    "price": 14,
+                                    "default": false,
+                                    "sort": 10
+                                },
+                                {
+                                    "id": 12631792,
+                                    "option_group_id": 2125326,
+                                    "name": "PORTUGUESA",
+                                    "price": 14,
+                                    "default": false,
+                                    "sort": 11
+                                },
+                                {
+                                    "id": 12631793,
+                                    "option_group_id": 2125326,
+                                    "name": "ATUM CREMOSO",
+                                    "price": 14,
+                                    "default": false,
+                                    "sort": 12
+                                },
+                                {
+                                    "id": 12631794,
+                                    "option_group_id": 2125326,
+                                    "name": "EXECUTIVA",
+                                    "price": 14,
+                                    "default": false,
+                                    "sort": 13
+                                },
+                                {
+                                    "id": 12631795,
+                                    "option_group_id": 2125326,
+                                    "name": "Á MODA",
+                                    "price": 15,
+                                    "default": false,
+                                    "sort": 14
+                                },
+                                {
+                                    "id": 12631796,
+                                    "option_group_id": 2125326,
+                                    "name": "SUPER FRANGO",
+                                    "price": 15,
+                                    "default": false,
+                                    "sort": 15
+                                },
+                                {
+                                    "id": 12631797,
+                                    "option_group_id": 2125326,
+                                    "name": "CARNE DE SOL",
+                                    "price": 15,
+                                    "default": false,
+                                    "sort": 16
+                                },
+                                {
+                                    "id": 12631798,
+                                    "option_group_id": 2125326,
+                                    "name": "LOMBO CANADENSE",
+                                    "price": 15,
+                                    "default": false,
+                                    "sort": 17
+                                },
+                                {
+                                    "id": 12631799,
+                                    "option_group_id": 2125326,
+                                    "name": "PEPPERONI",
+                                    "price": 15,
+                                    "default": false,
+                                    "sort": 18
+                                },
+                                {
+                                    "id": 12631800,
+                                    "option_group_id": 2125326,
+                                    "name": "CAMARÃO",
+                                    "price": 15,
+                                    "default": false,
+                                    "sort": 19
+                                },
+                                {
+                                    "id": 12631801,
+                                    "option_group_id": 2125326,
+                                    "name": "CHOCOLATE",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 20
+                                },
+                                {
+                                    "id": 12631802,
+                                    "option_group_id": 2125326,
+                                    "name": "CHOCOLATE COM M&M",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 21
+                                },
+                                {
+                                    "id": 12631803,
+                                    "option_group_id": 2125326,
+                                    "name": "CHOCOLATE COM MORANGOS",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 22
+                                },
+                                {
+                                    "id": 12631805,
+                                    "option_group_id": 2125326,
+                                    "name": "BANANA",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 23
+                                },
+                                {
+                                    "id": 12631806,
+                                    "option_group_id": 2125326,
+                                    "name": "ROMEU E JULIETA",
+                                    "price": 13,
+                                    "default": false,
+                                    "sort": 24
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995001,
+            "menu_id": 345170,
+            "name": "PIZZA TRADICIONAIS",
+            "description": "As pizzas tradicionais mais saborosas do Palhano! (VALORES INICIAIS DA PIZZA MÉDIA)",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 1,
+            "picture_id": 175087,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562172,
+                    "menu_category_id": 1995001,
+                    "name": "MUSSARELA  CREMOSA",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918099,
+                            "menu_item_id": 11562172,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918100,
+                            "menu_item_id": 11562172,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": true,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562181,
+                    "menu_category_id": 1995001,
+                    "name": "CALABRESA",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918105,
+                            "menu_item_id": 11562181,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918106,
+                            "menu_item_id": 11562181,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562194,
+                    "menu_category_id": 1995001,
+                    "name": "QUATRO QUEIJOS",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918111,
+                            "menu_item_id": 11562194,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918112,
+                            "menu_item_id": 11562194,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562200,
+                    "menu_category_id": 1995001,
+                    "name": "PRESUNTO",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918113,
+                            "menu_item_id": 11562200,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918114,
+                            "menu_item_id": 11562200,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562202,
+                    "menu_category_id": 1995001,
+                    "name": "MILHO VERDE",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 4,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918115,
+                            "menu_item_id": 11562202,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918116,
+                            "menu_item_id": 11562202,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562209,
+                    "menu_category_id": 1995001,
+                    "name": "BACON",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 0,
+                    "sort": 5,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918117,
+                            "menu_item_id": 11562209,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918118,
+                            "menu_item_id": 11562209,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562211,
+                    "menu_category_id": 1995001,
+                    "name": "MISTA",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 6,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918119,
+                            "menu_item_id": 11562211,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918120,
+                            "menu_item_id": 11562211,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                }
+            ],
+            "groups": [
+                {
+                    "id": 2125080,
+                    "menu_id": 345170,
+                    "name": "ADICIONAIS",
+                    "sort": 0,
+                    "required": false,
+                    "force_min": 1,
+                    "force_max": 1,
+                    "allow_quantity": true,
+                    "tax_category_id": 248788,
+                    "options": [
+                        {
+                            "id": 12630623,
+                            "option_group_id": 2125080,
+                            "name": "CARNE",
+                            "price": 5,
+                            "default": false,
+                            "sort": 0
+                        },
+                        {
+                            "id": 12630624,
+                            "option_group_id": 2125080,
+                            "name": "BACON",
+                            "price": 5,
+                            "default": false,
+                            "sort": 1
+                        },
+                        {
+                            "id": 12630625,
+                            "option_group_id": 2125080,
+                            "name": "CALABRESA",
+                            "price": 5,
+                            "default": false,
+                            "sort": 2
+                        },
+                        {
+                            "id": 12630626,
+                            "option_group_id": 2125080,
+                            "name": "PRESUNTO",
+                            "price": 5,
+                            "default": false,
+                            "sort": 3
+                        },
+                        {
+                            "id": 12630627,
+                            "option_group_id": 2125080,
+                            "name": "MUSSARELA",
+                            "price": 5,
+                            "default": false,
+                            "sort": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1995032,
+            "menu_id": 345170,
+            "name": "PIZZA CLÁSSICAS",
+            "description": "Pizzas pra quem deseja saborear o melhor da culinária italiana. (VALORES INICIAIS DA PIZZA MÉDIA)",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 2,
+            "picture_id": 175070,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562254,
+                    "menu_category_id": 1995032,
+                    "name": "FRANGO CREMOSO",
+                    "description": null,
+                    "price": 18,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918129,
+                            "menu_item_id": 11562254,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918130,
+                            "menu_item_id": 11562254,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562264,
+                    "menu_category_id": 1995032,
+                    "name": "FRANGO CHEDDAR",
+                    "description": null,
+                    "price": 18,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918137,
+                            "menu_item_id": 11562264,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918138,
+                            "menu_item_id": 11562264,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562268,
+                    "menu_category_id": 1995032,
+                    "name": "FRANGO CATUPIRY",
+                    "description": null,
+                    "price": 18,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918139,
+                            "menu_item_id": 11562268,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918140,
+                            "menu_item_id": 11562268,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562274,
+                    "menu_category_id": 1995032,
+                    "name": "FRANGO COM BACON",
+                    "description": null,
+                    "price": 18,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918143,
+                            "menu_item_id": 11562274,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918144,
+                            "menu_item_id": 11562274,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562278,
+                    "menu_category_id": 1995032,
+                    "name": "PORTUGUESA",
+                    "description": null,
+                    "price": 18,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 4,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918147,
+                            "menu_item_id": 11562278,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918148,
+                            "menu_item_id": 11562278,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562283,
+                    "menu_category_id": 1995032,
+                    "name": "ATUM CREMOSO",
+                    "description": null,
+                    "price": 18,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 5,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918152,
+                            "menu_item_id": 11562283,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918153,
+                            "menu_item_id": 11562283,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562285,
+                    "menu_category_id": 1995032,
+                    "name": "EXECUTIVA",
+                    "description": null,
+                    "price": 18,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 6,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918154,
+                            "menu_item_id": 11562285,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918155,
+                            "menu_item_id": 11562285,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                }
+            ],
+            "groups": [
+                {
+                    "id": 2125080,
+                    "menu_id": 345170,
+                    "name": "ADICIONAIS",
+                    "sort": 0,
+                    "required": false,
+                    "force_min": 1,
+                    "force_max": 1,
+                    "allow_quantity": true,
+                    "tax_category_id": 248788,
+                    "options": [
+                        {
+                            "id": 12630623,
+                            "option_group_id": 2125080,
+                            "name": "CARNE",
+                            "price": 5,
+                            "default": false,
+                            "sort": 0
+                        },
+                        {
+                            "id": 12630624,
+                            "option_group_id": 2125080,
+                            "name": "BACON",
+                            "price": 5,
+                            "default": false,
+                            "sort": 1
+                        },
+                        {
+                            "id": 12630625,
+                            "option_group_id": 2125080,
+                            "name": "CALABRESA",
+                            "price": 5,
+                            "default": false,
+                            "sort": 2
+                        },
+                        {
+                            "id": 12630626,
+                            "option_group_id": 2125080,
+                            "name": "PRESUNTO",
+                            "price": 5,
+                            "default": false,
+                            "sort": 3
+                        },
+                        {
+                            "id": 12630627,
+                            "option_group_id": 2125080,
+                            "name": "MUSSARELA",
+                            "price": 5,
+                            "default": false,
+                            "sort": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1995040,
+            "menu_id": 345170,
+            "name": "PIZZA ESPECIAL",
+            "description": "Pizzas sofisticadas para seu paladar sofisticado. (VALORES INICIAIS DA PIZZA MÉDIA)",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 3,
+            "picture_id": 2947,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562299,
+                    "menu_category_id": 1995040,
+                    "name": "Á MODA",
+                    "description": null,
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918169,
+                            "menu_item_id": 11562299,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918170,
+                            "menu_item_id": 11562299,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562301,
+                    "menu_category_id": 1995040,
+                    "name": "SUPER FRANGO",
+                    "description": null,
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918171,
+                            "menu_item_id": 11562301,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918172,
+                            "menu_item_id": 11562301,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562342,
+                    "menu_category_id": 1995040,
+                    "name": "CARNE DE SOL",
+                    "description": null,
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918201,
+                            "menu_item_id": 11562342,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918202,
+                            "menu_item_id": 11562342,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562343,
+                    "menu_category_id": 1995040,
+                    "name": "LOMBO CANADENSE",
+                    "description": null,
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918203,
+                            "menu_item_id": 11562343,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918204,
+                            "menu_item_id": 11562343,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562344,
+                    "menu_category_id": 1995040,
+                    "name": "PEPPERONI",
+                    "description": null,
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 4,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918205,
+                            "menu_item_id": 11562344,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918206,
+                            "menu_item_id": 11562344,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562345,
+                    "menu_category_id": 1995040,
+                    "name": "CAMARÃO",
+                    "description": null,
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 5,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918207,
+                            "menu_item_id": 11562345,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918208,
+                            "menu_item_id": 11562345,
+                            "name": "GRANDE",
+                            "price": 10,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                }
+            ],
+            "groups": [
+                {
+                    "id": 2125080,
+                    "menu_id": 345170,
+                    "name": "ADICIONAIS",
+                    "sort": 0,
+                    "required": false,
+                    "force_min": 1,
+                    "force_max": 1,
+                    "allow_quantity": true,
+                    "tax_category_id": 248788,
+                    "options": [
+                        {
+                            "id": 12630623,
+                            "option_group_id": 2125080,
+                            "name": "CARNE",
+                            "price": 5,
+                            "default": false,
+                            "sort": 0
+                        },
+                        {
+                            "id": 12630624,
+                            "option_group_id": 2125080,
+                            "name": "BACON",
+                            "price": 5,
+                            "default": false,
+                            "sort": 1
+                        },
+                        {
+                            "id": 12630625,
+                            "option_group_id": 2125080,
+                            "name": "CALABRESA",
+                            "price": 5,
+                            "default": false,
+                            "sort": 2
+                        },
+                        {
+                            "id": 12630626,
+                            "option_group_id": 2125080,
+                            "name": "PRESUNTO",
+                            "price": 5,
+                            "default": false,
+                            "sort": 3
+                        },
+                        {
+                            "id": 12630627,
+                            "option_group_id": 2125080,
+                            "name": "MUSSARELA",
+                            "price": 5,
+                            "default": false,
+                            "sort": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1995051,
+            "menu_id": 345170,
+            "name": "PIZZA DOCE",
+            "description": "Pizza para quem gosta de experimentar sabores diferentes",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 4,
+            "picture_id": 175078,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562363,
+                    "menu_category_id": 1995051,
+                    "name": "CHOCOLATE",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918214,
+                            "menu_item_id": 11562363,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918215,
+                            "menu_item_id": 11562363,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562366,
+                    "menu_category_id": 1995051,
+                    "name": "CHOCOLATE COM M&M",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918218,
+                            "menu_item_id": 11562366,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918219,
+                            "menu_item_id": 11562366,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562368,
+                    "menu_category_id": 1995051,
+                    "name": "CHOCOLATE COM MORANGOS",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918220,
+                            "menu_item_id": 11562368,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918221,
+                            "menu_item_id": 11562368,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562370,
+                    "menu_category_id": 1995051,
+                    "name": "BANANA",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918222,
+                            "menu_item_id": 11562370,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918223,
+                            "menu_item_id": 11562370,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562373,
+                    "menu_category_id": 1995051,
+                    "name": "ROMEU E JULIETA",
+                    "description": "",
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 4,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918226,
+                            "menu_item_id": 11562373,
+                            "name": "MÉDIA",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918227,
+                            "menu_item_id": 11562373,
+                            "name": "GRANDE",
+                            "price": 9,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995056,
+            "menu_id": 345170,
+            "name": "HAMBURGUER",
+            "description": "Os melhores hambúrgueres e as mais diversas combinações",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 5,
+            "picture_id": null,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562411,
+                    "menu_category_id": 1995056,
+                    "name": "MISTO",
+                    "description": null,
+                    "price": 5,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562412,
+                    "menu_category_id": 1995056,
+                    "name": "SANDUBA SIMPLES",
+                    "description": null,
+                    "price": 7,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562413,
+                    "menu_category_id": 1995056,
+                    "name": "SANDUBA CLÁSSICO",
+                    "description": null,
+                    "price": 9,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562414,
+                    "menu_category_id": 1995056,
+                    "name": "SANDUBA ESPECIAL",
+                    "description": null,
+                    "price": 12,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995057,
+            "menu_id": 345170,
+            "name": "COMBOS",
+            "description": "Os melhores combos para você aproveitar",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 6,
+            "picture_id": null,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562429,
+                    "menu_category_id": 1995057,
+                    "name": "POPULAR",
+                    "description": "Sanduba simples ( Pão bola + carne 120g + queijo mussarela + presunto +molho especial) + batata + refri",
+                    "price": 10,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562430,
+                    "menu_category_id": 1995057,
+                    "name": "PABULOSO",
+                    "description": null,
+                    "price": 12,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562439,
+                    "menu_category_id": 1995057,
+                    "name": "AMOSTRADO",
+                    "description": null,
+                    "price": 17,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995075,
+            "menu_id": 345170,
+            "name": "SUCOS",
+            "description": null,
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 7,
+            "picture_id": null,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562487,
+                    "menu_category_id": 1995075,
+                    "name": "ABACAXI",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918348,
+                            "menu_item_id": 11562487,
+                            "name": "400 ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918349,
+                            "menu_item_id": 11562487,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562489,
+                    "menu_category_id": 1995075,
+                    "name": "ACEROLA",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918350,
+                            "menu_item_id": 11562489,
+                            "name": "400ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918351,
+                            "menu_item_id": 11562489,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562493,
+                    "menu_category_id": 1995075,
+                    "name": "LIMÃO",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918352,
+                            "menu_item_id": 11562493,
+                            "name": "400 ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918353,
+                            "menu_item_id": 11562493,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562498,
+                    "menu_category_id": 1995075,
+                    "name": "MARACUJÁ",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918357,
+                            "menu_item_id": 11562498,
+                            "name": "400ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918358,
+                            "menu_item_id": 11562498,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562499,
+                    "menu_category_id": 1995075,
+                    "name": "CAJÁ",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 4,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918359,
+                            "menu_item_id": 11562499,
+                            "name": "400ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918360,
+                            "menu_item_id": 11562499,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562501,
+                    "menu_category_id": 1995075,
+                    "name": "TAMARINDO",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 5,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918361,
+                            "menu_item_id": 11562501,
+                            "name": "400ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918362,
+                            "menu_item_id": 11562501,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562503,
+                    "menu_category_id": 1995075,
+                    "name": "GOIABA",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 6,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918363,
+                            "menu_item_id": 11562503,
+                            "name": "400ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918364,
+                            "menu_item_id": 11562503,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562514,
+                    "menu_category_id": 1995075,
+                    "name": "MANGA",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 7,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918365,
+                            "menu_item_id": 11562514,
+                            "name": "400ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918366,
+                            "menu_item_id": 11562514,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562516,
+                    "menu_category_id": 1995075,
+                    "name": "GRAVIOLA",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 8,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918367,
+                            "menu_item_id": 11562516,
+                            "name": "400 ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918368,
+                            "menu_item_id": 11562516,
+                            "name": "JARRA",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562517,
+                    "menu_category_id": 1995075,
+                    "name": "LARANJA",
+                    "description": null,
+                    "price": 5,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 9,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918369,
+                            "menu_item_id": 11562517,
+                            "name": "400ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918370,
+                            "menu_item_id": 11562517,
+                            "name": "JARRA",
+                            "price": 5,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995084,
+            "menu_id": 345170,
+            "name": "CERVEJAS",
+            "description": null,
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 8,
+            "picture_id": null,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562550,
+                    "menu_category_id": 1995084,
+                    "name": "SKOL",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918377,
+                            "menu_item_id": 11562550,
+                            "name": "300ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918378,
+                            "menu_item_id": 11562550,
+                            "name": "600ML",
+                            "price": 3,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562554,
+                    "menu_category_id": 1995084,
+                    "name": "BRAHMA",
+                    "description": null,
+                    "price": 3.5,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918381,
+                            "menu_item_id": 11562554,
+                            "name": "300ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918382,
+                            "menu_item_id": 11562554,
+                            "name": "600ML",
+                            "price": 4.5,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562564,
+                    "menu_category_id": 1995084,
+                    "name": "BOHEMIA",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918383,
+                            "menu_item_id": 11562564,
+                            "name": "300ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562569,
+                    "menu_category_id": 1995084,
+                    "name": "BUDWEISER",
+                    "description": null,
+                    "price": 6,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918386,
+                            "menu_item_id": 11562569,
+                            "name": "330ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918387,
+                            "menu_item_id": 11562569,
+                            "name": "550ML",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562571,
+                    "menu_category_id": 1995084,
+                    "name": "HEINEKEN",
+                    "description": null,
+                    "price": 7,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 4,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918388,
+                            "menu_item_id": 11562571,
+                            "name": "330ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918389,
+                            "menu_item_id": 11562571,
+                            "name": "600ML",
+                            "price": 5,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "id": 11562573,
+                    "menu_category_id": 1995084,
+                    "name": "STELLA ARTOIS",
+                    "description": null,
+                    "price": 6,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 5,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918390,
+                            "menu_item_id": 11562573,
+                            "name": "275ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918391,
+                            "menu_item_id": 11562573,
+                            "name": "550ML",
+                            "price": 4,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995092,
+            "menu_id": 345170,
+            "name": "MILK SHAKE",
+            "description": null,
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 9,
+            "picture_id": 487,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562581,
+                    "menu_category_id": 1995092,
+                    "name": "CHOCOLATE",
+                    "description": null,
+                    "price": 8,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562583,
+                    "menu_category_id": 1995092,
+                    "name": "MORANGO",
+                    "description": null,
+                    "price": 8,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562584,
+                    "menu_category_id": 1995092,
+                    "name": "OVOMALTINE",
+                    "description": null,
+                    "price": 8,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995093,
+            "menu_id": 345170,
+            "name": "BEBIDAS",
+            "description": "Aguas, refrigerantes",
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 10,
+            "picture_id": null,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562599,
+                    "menu_category_id": 1995093,
+                    "name": "REFRIGERANTE",
+                    "description": null,
+                    "price": 3,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [
+                        {
+                            "id": 5918429,
+                            "menu_item_id": 11562599,
+                            "name": "LATA 350ML",
+                            "price": 0,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918430,
+                            "menu_item_id": 11562599,
+                            "name": "1 LITRO",
+                            "price": 2,
+                            "default": false,
+                            "groups": []
+                        },
+                        {
+                            "id": 5918431,
+                            "menu_item_id": 11562599,
+                            "name": "2 LITROS",
+                            "price": 7,
+                            "default": false,
+                            "groups": []
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": 2125105,
+                            "menu_id": 345170,
+                            "name": "SABORES REFRIGERANTE",
+                            "sort": 0,
+                            "required": true,
+                            "force_min": 1,
+                            "force_max": 1,
+                            "allow_quantity": false,
+                            "tax_category_id": 248788,
+                            "options": [
+                                {
+                                    "id": 12630744,
+                                    "option_group_id": 2125105,
+                                    "name": "COCA-COLA",
+                                    "price": 0,
+                                    "default": false,
+                                    "sort": 0
+                                },
+                                {
+                                    "id": 12630745,
+                                    "option_group_id": 2125105,
+                                    "name": "GUARANA",
+                                    "price": 0,
+                                    "default": false,
+                                    "sort": 1
+                                },
+                                {
+                                    "id": 12630746,
+                                    "option_group_id": 2125105,
+                                    "name": "PEPSI",
+                                    "price": 0,
+                                    "default": false,
+                                    "sort": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 11562600,
+                    "menu_category_id": 1995093,
+                    "name": "AGUA MINERAL",
+                    "description": null,
+                    "price": 2,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562601,
+                    "menu_category_id": 1995093,
+                    "name": "AGUA COM GÁS",
+                    "description": null,
+                    "price": 2,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562602,
+                    "menu_category_id": 1995093,
+                    "name": "AGUA FRESH",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 3,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562603,
+                    "menu_category_id": 1995093,
+                    "name": "AGUA H20",
+                    "description": null,
+                    "price": 4,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 4,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995103,
+            "menu_id": 345170,
+            "name": "ESFIHAS",
+            "description": null,
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 11,
+            "picture_id": null,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562632,
+                    "menu_category_id": 1995103,
+                    "name": "MUSSARELA",
+                    "description": null,
+                    "price": 3,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562634,
+                    "menu_category_id": 1995103,
+                    "name": "MISTA",
+                    "description": null,
+                    "price": 3,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562635,
+                    "menu_category_id": 1995103,
+                    "name": "CALABRESA",
+                    "description": null,
+                    "price": 3,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 2,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        },
+        {
+            "id": 1995104,
+            "menu_id": 345170,
+            "name": "ACOMPANHAMENTOS",
+            "description": null,
+            "active": true,
+            "active_begin": null,
+            "active_end": null,
+            "active_days": 127,
+            "sort": 12,
+            "picture_id": null,
+            "hidden_until": null,
+            "items": [
+                {
+                    "id": 11562638,
+                    "menu_category_id": 1995104,
+                    "name": "BOLINHA DE BACALHAU",
+                    "description": "Bolinha de bacalhau super saborosa",
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 0,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                },
+                {
+                    "id": 11562642,
+                    "menu_category_id": 1995104,
+                    "name": "BOLINAH DE CARNE",
+                    "description": null,
+                    "price": 20,
+                    "active": true,
+                    "active_begin": null,
+                    "active_end": null,
+                    "active_days": 127,
+                    "sort": 1,
+                    "tags": [],
+                    "hidden_until": null,
+                    "tax_category_id": 248788,
+                    "hide_instructions": false,
+                    "sizes": [],
+                    "groups": []
+                }
+            ],
+            "groups": []
+        }
+    ],
+    "currency_config": {
+        "currency": "BRL",
+        "decimals": 2,
+        "created_at": "2020-02-12T15:38:11.000Z",
+        "updated_at": "2020-02-12T15:38:11.000Z"
+    }
+}
